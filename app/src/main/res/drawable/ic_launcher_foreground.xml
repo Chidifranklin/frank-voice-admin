@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Crest -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,23 L79,32 C79,57 68,76 54,85 C40,76 29,57 29,32 Z" />
+
+    <!-- Inner Neural Memory Core Plate -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#0EA5E9"
+        android:strokeWidth="1.5"
+        android:pathData="M54,30 L72,37 C72,57 63,72 54,78 C45,72 36,57 36,37 Z" />
+
+    <!-- Neural Memory Brain / Super Admin Chip -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M49,42 H59 V46 H49 Z M49,48 H59 V52 H49 Z M49,54 H59 V58 H49 Z" />
+
+    <!-- Admin Key Lock / Voice Core Node -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,43 A4,4 0 1,0 54,51 A4,4 0 1,0 54,43 Z M52,51 H56 L57,63 H51 Z" />
+
+    <!-- Left & Right Neural Synapse Data Nodes -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M43,45 A2.5,2.5 0 1,0 43,50 A2.5,2.5 0 1,0 43,45 Z M65,45 A2.5,2.5 0 1,0 65,50 A2.5,2.5 0 1,0 65,45 Z" />
+
+    <!-- Neural Bus Lines -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.2"
+        android:pathData="M45.5,47.5 L50,47.5 M58,47.5 L62.5,47.5 M54,34 L54,39 M54,64 L54,70" />
+
+    <!-- Voice Soundwave Crest Accent -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M48,68 Q54,72 60,68" />
+</vector>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frank</string>
+    <string name="accessibility_service_label">Frank Super Admin Controls</string>
+    <string name="accessibility_service_description">Enables Frank to navigate hands-free, go home, go back, scroll screens, click UI items, and take screenshots via voice commands.</string>
+</resources>
